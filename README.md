@@ -1,6 +1,8 @@
 # ebalfit
 Perform entropy balancing as an estimation command Use ebalfit With STATA 19
 
+https://www.youtube.com/watch?v=YR6TfKKQ7SQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
